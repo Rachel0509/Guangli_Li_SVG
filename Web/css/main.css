@@ -1,0 +1,132 @@
+main{ text-align: center; }
+svg{ width:48%; height: 600px; display:  inline-block; }
+.selected{color: pink}
+
+
+#Bulemonster .st0{fill:#C783B7;}
+#Bulemonster .st1{fill:#125785;}
+#Bulemonster .st2{fill:#8E4C87;}
+#Bulemonster .st3{fill:#1B70B6;}
+#Bulemonster .st4{fill:#66A0D7;}
+#Bulemonster .st5{fill:#1E1F1D;}
+#Bulemonster .st6{fill:#A3201B;}
+#Bulemonster .st7{fill:#E32D28;}
+#Bulemonster .st8{fill:url(#bule_1_);}
+#Bulemonster .st9{fill:#FFFFFF;}
+
+#Pinkmonster .st0{fill:#D5418F;}
+#Pinkmonster .st1{fill:#1E1F1D;}
+#Pinkmonster .st2{fill:#E32D28;}
+#Pinkmonster .st3{fill:#A3201B;}
+#Pinkmonster .st4{fill:#FFFFFF;}
+#Pinkmonster .st5{fill:#E3C724;}
+#Pinkmonster .st6{fill:#A7C833;}
+#Pinkmonster .st7{fill:#E6362C;}
+#Pinkmonster .st8{fill:#C72C28;}
+#Pinkmonster .st9{fill:#E3AB28;}
+#Pinkmonster .st10{fill:#9DC42B;}
+#Pinkmonster .st11{fill:#FADF21;}
+#Pinkmonster .st12{fill:#CA9220;}
+
+#Greenmonster .st0{fill:#94C128;}
+#Greenmonster .st1{fill:#74922B;}
+#Greenmonster .st2{fill:#59AE33;}
+#Greenmonster .st3{fill:#499834;}
+#Greenmonster .st4{fill:#1E1F1D;}
+#Greenmonster .st5{fill:#E62A46;}
+#Greenmonster .st6{fill:#CD163B;}
+#Greenmonster .st7{fill:#FFFFFF;}
+#Greenmonster .st8{fill:#063E51;}
+#Greenmonster .st9{fill:#B2B1B0;}
+
+#Redmonster .st0{fill:#E62A3B;}
+#Redmonster	.st1{fill:#CA152C;}
+#Redmonster	.st2{fill:#FFFFFF;}
+#Redmonster	.st3{fill:url(#SVGID_1_);}
+#Redmonster	.st4{fill:#1E1F1D;}
+#Redmonster	.st5{fill:url(#SVGID_2_);}
+#Redmonster	.st6{fill:#C71B1B;}
+#Redmonster	.st7{fill:#E52523;}
+
+#Yellowmonster  .st0{fill:url(#body_1_);}
+#Yellowmonster	.st1{fill:#E43333;}
+#Yellowmonster	.st2{fill:#9C1C1B;}
+#Yellowmonster	.st3{fill:#1E1F1D;}
+#Yellowmonster	.st4{fill:#C8C7C7;}
+#Yellowmonster	.st5{fill:#FFFFFF;}
+#Yellowmonster	.st6{fill:#B2B1B0;}
+#Yellowmonster	.st7{fill:#063E51;}
+#Yellowmonster	.st8{fill:#C39E05;}
+#Yellowmonster	.st9{fill:#E5B90D;}
+#Yellowmonster	.st10{fill:#F1C906;}
+#Yellowmonster	.st11{fill:#F7B21C;}
+
+#Sunglassesmonster  .st0{fill:#566EB3;}
+#Sunglassesmonster	.st1{fill:#4081C2;}
+#Sunglassesmonster	.st2{fill:#66A0D7;}
+#Sunglassesmonster	.st3{fill:#9C1C1B;}
+#Sunglassesmonster	.st4{fill:#C8C7C7;}
+#Sunglassesmonster	.st5{fill:#1E1F1D;}
+#Sunglassesmonster	.st6{fill:#FFFFFF;}
+#Sunglassesmonster	.st7{fill:#E43333;}
+
+#Angrymonster   .st0{fill:#4081C2;}
+#Angrymonster	.st1{fill:#125B95;}
+#Angrymonster	.st2{fill:#66A0D7;}
+#Angrymonster	.st3{fill:#FFFFFF;}
+#Angrymonster	.st4{fill:#C8C7C7;}
+#Angrymonster	.st5{fill:#1E1F1D;}
+#Angrymonster	.st6{fill:#EEEDED;}
+#Angrymonster	.st7{fill:#B1B1B0;}
+
+#Evilmonster    .st0{fill:#5DC2DB;}
+#Evilmonster	.st1{fill:#1E1F1D;}
+#Evilmonster	.st2{fill:#FFFFFF;}
+#Evilmonster	.st3{fill:#C8C7C7;}
+#Evilmonster	.st4{fill:#9C1C1B;}
+#Evilmonster	.st5{fill:#E43333;}
+#Evilmonster	.st6{fill:#EEEDED;}
+#Evilmonster	.st7{fill:#B1B1B0;}
+
+#Simplemonster  .st0{fill:#4081C2;}
+#Simplemonster	.st1{fill:#125B95;}
+#Simplemonster	.st2{fill:#66A0D7;}
+#Simplemonster	.st3{fill:#1E1F1D;}
+#Simplemonster	.st4{fill:url(#SVGID_1_);}
+#Simplemonster	.st5{fill:#FFFFFF;}
+
+#Happlemonster  .st0{fill:url(#body_1_);}
+#Happlemonster	.st1{fill:#030405;}
+#Happlemonster	.st2{fill:#FFFFFF;}
+#Happlemonster	.st3{fill:#C8C7C7;}
+#Happlemonster	.st4{fill:#1E1F1D;}
+#Happlemonster	.st5{fill:#9C1C1B;}
+#Happlemonster	.st6{fill:#E43333;}
+
+#Bulemonster:hover .st0{fill:pink;}
+#Bulemonster:hover .st1{fill:pink;}
+#Bulemonster:hover .st2{fill:pink;}
+#Bulemonster:hover .st3{fill:#B1B1B0;}
+#Bulemonster:hover .st4{fill:#B1B1B0;}
+#Bulemonster:hover .st5{fill:#66A0D7;}
+#Bulemonster:hover .st6{fill:#66A0D7;}
+#Bulemonster:hover .st7{fill:#EEEDED;}
+#Bulemonster:hover .st8{fill:#1E1F1D;}
+#Bulemonster:hover .st9{{fill:#EEEDED;}
+
+#Pinkmonster:hover .st0{fill:#9C1C1B;}
+#Pinkmonster:hover .st1{fill:#9C1C1B;}
+#Pinkmonster:hover .st2{fill:#9C1C1B;}
+#Pinkmonster:hover .st3{fill:green;}
+#Pinkmonster:hover .st4{fill:#FFFFFF;}
+#Pinkmonster:hover .st5{fill:#E3C724;}
+#Pinkmonster:hover .st6{fill:#A7C833;}
+
+
+
+
+
+
+
+
+
